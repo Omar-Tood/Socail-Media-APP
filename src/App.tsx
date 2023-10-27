@@ -12,6 +12,8 @@ function App() {
 
         {/* Private  routes */}
 
+        <Route index element= {<Home/>}/>
+
       </Routes>
    </main>
   )
